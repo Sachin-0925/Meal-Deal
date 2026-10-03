@@ -3,7 +3,7 @@
   // Coordinates refer to the approved 1659 × 948 poster, never generated imagery.
   const meals = [
     ['CLASSIC SMASH BURGER', 'FRIES + CAN OF POP', '10.99', [24,269,300,168]],
-    ['DONAIR SMASH BURGER', 'FRIES + CAN OF POP', '11.99', [350,268,302,169]],
+    ['DONAIR SMASH BURGER', 'FRIES + CAN OF POP', '12.99', [350,268,302,169]],
     ['GAME CHANGER BEEF POUTINE', '+ CAN OF POP', '13.99', [672,264,307,174]],
     ['WESTERN BEEF POUTINE', '+ CAN OF POP', '13.99', [999,264,309,174]],
     ['SPICY CHICKEN POUTINE', '+ CAN OF POP', '15.99', [1327,265,313,173]],
